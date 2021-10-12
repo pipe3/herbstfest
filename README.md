@@ -7,14 +7,15 @@ This project provides two python scripts which create order summary information 
 Populate with data and save to config.json (todo make filename command line parameter)
 
 ## check_orders_herbstfest.py
-It performs the following actions
-`while true:
+The script performs the following actions and runs until interrupted by CTRL+c
+```
+while true:
     get all emails
     process them into several pandas dataframes
     update html summary on Wordpress
     create Excel file with summary on filepath
-`
-The script runs until it is interrupted by CTRL+c.
+```
+
 
 ## print_orders_herbstfest.py
-This creates a single PDF document with individual pages per order. 
+This creates a single PDF document with individual pages per order.
