@@ -1,7 +1,7 @@
 {
     "sleep_timer_min" : 10,
-    "excelfile" : "/path/to/bestellungen.xlsx"
-    "pdffile" : "/path/to/alle_bestellungen.pdf"
+    "excelfile" : "/path/to/bestellungen.xlsx",
+    "pdffile" : "/path/to/alle_bestellungen.pdf",
     "imap_server" : "my.imap.server.com",
     "imap_user" : "",
     "imap_psw" : "",
