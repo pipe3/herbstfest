@@ -1,0 +1,14 @@
+{
+    "sleep_timer_min" : 10,
+    "excelfile" : "/path/to/bestellungen.xlsx"
+    "pdffile" : "/path/to/alle_bestellungen.pdf"
+    "imap_server" : "my.imap.server.com",
+    "imap_user" : "",
+    "imap_psw" : "",
+    "imap_subject" : "Herbstfest",
+    "imap_folder" : "INBOX.Herbstfest",
+    "wp_url" : "https://my.wordpress.site.com/wp-json/wp/v2/pages/",
+    "wp_postid" : "1155",
+    "wp_user" : "",
+    "wp_pass" : ""
+}
